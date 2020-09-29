@@ -1,0 +1,9 @@
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\bin\Debug\netstandard2.1\blazor-mysql.Shared.deps.json
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\bin\Debug\netstandard2.1\blazor-mysql.Shared.dll
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\bin\Debug\netstandard2.1\blazor-mysql.Shared.pdb
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.csprojAssemblyReference.cache
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.AssemblyInfoInputs.cache
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.AssemblyInfo.cs
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.csproj.CoreCompileInputs.cache
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.dll
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Shared\obj\Debug\netstandard2.1\blazor-mysql.Shared.pdb
