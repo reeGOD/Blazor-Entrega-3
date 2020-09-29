@@ -766,6 +766,39 @@
         }
       },
       {
+        "HashCode": 694486684,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ObjectGraphDataAnnotationsValidator"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
+        }
+      },
+      {
+        "HashCode": 142234791,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1342441254,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
@@ -2846,35 +2879,217 @@
         }
       },
       {
-        "HashCode": 694486684,
+        "HashCode": 2098001270,
         "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
+        "Name": "blazor_mysql.Client.App",
+        "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ObjectGraphDataAnnotationsValidator"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
+          "Common.TypeName": "blazor_mysql.Client.App"
         }
       },
       {
-        "HashCode": 142234791,
+        "HashCode": -1284891825,
         "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
+        "Name": "blazor_mysql.Client.App",
+        "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
+            "TagName": "blazor_mysql.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+          "Common.TypeName": "blazor_mysql.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -225998224,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.MainLayout",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": 1537680862,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.MainLayout",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_mysql.Client.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1036893441,
+        "Kind": "Components.ChildContent",
+        "Name": "blazor_mysql.Client.Shared.MainLayout.Body",
+        "AssemblyName": "blazor-mysql.Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1607102007,
+        "Kind": "Components.ChildContent",
+        "Name": "blazor_mysql.Client.Shared.MainLayout.Body",
+        "AssemblyName": "blazor-mysql.Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "blazor_mysql.Client.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1118730141,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.NavMenu",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1393070043,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.NavMenu",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_mysql.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1942172950,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.SurveyPrompt",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1475003231,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Shared.SurveyPrompt",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_mysql.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2978,217 +3193,121 @@
         }
       },
       {
-        "HashCode": 1942172950,
+        "HashCode": -2000043659,
         "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.SurveyPrompt",
+        "Name": "blazor_mysql.Client.Pages.User.CadastroUsuario",
         "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
+            "TagName": "CadastroUsuario"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.CadastroUsuario"
+        }
+      },
+      {
+        "HashCode": 912907376,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Pages.User.CadastroUsuario",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazor_mysql.Client.Pages.User.CadastroUsuario"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.CadastroUsuario",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1163635681,
+        "Kind": "Components.Component",
+        "Name": "blazor_mysql.Client.Pages.User.EditUsuario",
+        "AssemblyName": "blazor-mysql.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditUsuario"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
+            "Name": "Item",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "Item"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.EditUsuario"
         }
       },
       {
-        "HashCode": -1475003231,
+        "HashCode": 1560382807,
         "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.SurveyPrompt",
+        "Name": "blazor_mysql.Client.Pages.User.EditUsuario",
         "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazor_mysql.Client.Shared.SurveyPrompt"
+            "TagName": "blazor_mysql.Client.Pages.User.EditUsuario"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "Title",
+            "Name": "Item",
             "TypeName": "System.String",
             "Metadata": {
-              "Common.PropertyName": "Title"
+              "Common.PropertyName": "Item"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.EditUsuario",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1118730141,
+        "HashCode": 1406761375,
         "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.NavMenu",
+        "Name": "blazor_mysql.Client.Pages.User.ListUsuario",
         "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "ListUsuario"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.NavMenu"
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.ListUsuario"
         }
       },
       {
-        "HashCode": -1393070043,
+        "HashCode": -2105295827,
         "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.NavMenu",
+        "Name": "blazor_mysql.Client.Pages.User.ListUsuario",
         "AssemblyName": "blazor-mysql.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "blazor_mysql.Client.Shared.NavMenu"
+            "TagName": "blazor_mysql.Client.Pages.User.ListUsuario"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -225998224,
-        "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.MainLayout",
-        "AssemblyName": "blazor-mysql.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout"
-        }
-      },
-      {
-        "HashCode": 1537680862,
-        "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.Shared.MainLayout",
-        "AssemblyName": "blazor-mysql.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor_mysql.Client.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1036893441,
-        "Kind": "Components.ChildContent",
-        "Name": "blazor_mysql.Client.Shared.MainLayout.Body",
-        "AssemblyName": "blazor-mysql.Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1607102007,
-        "Kind": "Components.ChildContent",
-        "Name": "blazor_mysql.Client.Shared.MainLayout.Body",
-        "AssemblyName": "blazor-mysql.Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "blazor_mysql.Client.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazor_mysql.Client.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2098001270,
-        "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.App",
-        "AssemblyName": "blazor-mysql.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.App"
-        }
-      },
-      {
-        "HashCode": -1284891825,
-        "Kind": "Components.Component",
-        "Name": "blazor_mysql.Client.App",
-        "AssemblyName": "blazor-mysql.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazor_mysql.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazor_mysql.Client.App",
+          "Common.TypeName": "blazor_mysql.Client.Pages.User.ListUsuario",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
