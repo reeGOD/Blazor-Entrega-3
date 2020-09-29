@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Server\\blazor-mysql.Server.csproj": {}
+    "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\server\\blazor-mysql.Server.csproj": {}
   },
   "projects": {
     "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\blazor-mysql.Client.csproj": {
@@ -78,14 +78,14 @@
         }
       }
     },
-    "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Server\\blazor-mysql.Server.csproj": {
+    "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\server\\blazor-mysql.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Server\\blazor-mysql.Server.csproj",
+        "projectUniqueName": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\server\\blazor-mysql.Server.csproj",
         "projectName": "blazor-mysql.Server",
-        "projectPath": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Server\\blazor-mysql.Server.csproj",
+        "projectPath": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\server\\blazor-mysql.Server.csproj",
         "packagesPath": "C:\\Users\\reGOD\\.nuget\\packages\\",
-        "outputPath": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Server\\obj\\",
+        "outputPath": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reGOD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -120,6 +120,26 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[3.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.0, )"
             }
           },
           "imports": [
