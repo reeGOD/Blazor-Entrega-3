@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5iwgTt_D8iKAvUFwPjPupzwtJNaJJxaQWuPt74KszNQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\yjK4_IPjEAHUbltvV3RMNPnF8-Jwfg0yj3DeiiiNfZk=.hash",
       "Source": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor-mysql.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor-mysql.Client.dll.gz"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\l5NCaU0bu0OXsCaTXwM66Job8O_sQq-zc_q-xWrAiW8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6m_XIbIo6WPy-4Wp5MW9XjvMUqw-6T9qAnYnRRiDHR8=.hash",
       "Source": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor-mysql.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor-mysql.Shared.dll.gz"
     },
@@ -271,12 +271,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\J17KRxD9-ndGGcsYaKZKsG7fxrDdGX0oGEule9-5bjs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-NVkLnuD0TlBXuwt7TzUONkw7v2h0aagqcgDmOWejp4=.hash",
       "Source": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor-mysql.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor-mysql.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TAFBUoEfolMIl7c8pvTizphuDsddrMS6oP3KGiWE7Bk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qFatguKpbKFkLWEwlofTfzTZzGdCifFmOJNEgb7hVfI=.hash",
       "Source": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\blazor-mysql.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/blazor-mysql.Shared.pdb.gz"
     },
@@ -301,7 +301,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fGe2L1wFraunkWQy6mHxxs3fCP_cWmHmww6ETlbasEY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6bYY-LObdjn8yZAKzhiA0o7dbDck3IHkqcd1kBiq2mU=.hash",
       "Source": "H:\\GitHub\\Blazor-Entrega-3\\blazor-mysql\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

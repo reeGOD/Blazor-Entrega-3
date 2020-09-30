@@ -224,7 +224,6 @@ H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrit
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\l5NCaU0bu0OXsCaTXwM66Job8O_sQq-zc_q-xWrAiW8=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\VGaB03HIjFg4jeK7BomIFzlhhY3vW5N_jWuRqZkbJsY=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
@@ -240,7 +239,6 @@ H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrit
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\TAFBUoEfolMIl7c8pvTizphuDsddrMS6oP3KGiWE7Bk=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -378,6 +376,10 @@ H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\RazorDec
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\Razor\Pages\User\CadastroUsuario.razor.g.cs
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\Razor\Pages\User\EditUsuario.razor.g.cs
 H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\Razor\Pages\User\ListUsuario.razor.g.cs
-H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\5iwgTt_D8iKAvUFwPjPupzwtJNaJJxaQWuPt74KszNQ=.hash
-H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\J17KRxD9-ndGGcsYaKZKsG7fxrDdGX0oGEule9-5bjs=.hash
-H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\fGe2L1wFraunkWQy6mHxxs3fCP_cWmHmww6ETlbasEY=.hash
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Product\CadastroProduct.razor.g.cs
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\Razor\Pages\Product\CadastroProduct.razor.g.cs
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\yjK4_IPjEAHUbltvV3RMNPnF8-Jwfg0yj3DeiiiNfZk=.hash
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\6m_XIbIo6WPy-4Wp5MW9XjvMUqw-6T9qAnYnRRiDHR8=.hash
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\-NVkLnuD0TlBXuwt7TzUONkw7v2h0aagqcgDmOWejp4=.hash
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\qFatguKpbKFkLWEwlofTfzTZzGdCifFmOJNEgb7hVfI=.hash
+H:\GitHub\Blazor-Entrega-3\blazor-mysql\Client\obj\Debug\netstandard2.1\integrity\6bYY-LObdjn8yZAKzhiA0o7dbDck3IHkqcd1kBiq2mU=.hash
