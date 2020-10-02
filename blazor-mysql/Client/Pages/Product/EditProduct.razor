@@ -1,10 +1,11 @@
-@page  "/Product/CadastroProduct"
+@page  "/Product/EditProduct"
+@page "/Product/EditProduct/{Item}"
 @using System.Net.Http
 @inject HttpClient Http
 @inject NavigationManager NavigationManager
 
 <div class="card m-3">
-    <h4 class="card-header">Cadastro de Produtos</h4>
+    <h4 class="card-header">Atualizar Produtos</h4>
     <div class="card-body">
         <EditForm Model="@product" OnValidSubmit="HandleValidSubmit" @onreset="HandleReset">
             <DataAnnotationsValidator />
@@ -38,12 +39,21 @@
     private Product product = new Product();
     private EditContext editContext { get; set; }
 
+    [Parameter]
+    public string Item { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        var itemId = Item;
+        product = await Http.GetFromJsonAsync<Product>($"/Product/GetById?id={itemId}");
+        editContext = new EditContext(product);
+    }
+
     private async Task HandleValidSubmit()
     {
         //Enviar dados para o Controller no Backend
-        var teste = await Http.PostAsJsonAsync("/Product/Create", product);
-        NavigationManager.NavigateTo("Product/ListProduct");
-
+        var teste = await Http.PutAsJsonAsync("/Product/Update", product);
+        NavigationManager.NavigateTo("product/ListProduct");
     }
 
     private void HandleReset()
@@ -51,4 +61,8 @@
         product = new Product();
         editContext = new EditContext(product);
     }
+
+    
+
 }
+

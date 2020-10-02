@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "blazor-mysql.Client.dll": "sha256-yjK4+IPjEAHUbltvV3RMNPnF8\/Jwfg0yj3DeiiiNfZk=",
+      "blazor-mysql.Client.dll": "sha256-xiD3lLmqjAyNfuewuBSx3g0sBgr+1TtssJPk4n6\/Iog=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -62,7 +62,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "blazor-mysql.Client.pdb": "sha256-\/NVkLnuD0TlBXuwt7TzUONkw7v2h0aagqcgDmOWejp4=",
+      "blazor-mysql.Client.pdb": "sha256-nMHG1F8VSFc2okwDgmjpLqwnk81BxXK4TIZ7g773qks=",
       "blazor-mysql.Shared.pdb": "sha256-qFatguKpbKFkLWEwlofTfzTZzGdCifFmOJNEgb7hVfI="
     },
     "runtime": {
